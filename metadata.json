@@ -1,0 +1,5 @@
+{
+  "name": "Hotel Room Distributor",
+  "description": "App for equitable distribution of hotel rooms among housekeepers, including restaurant cleaning assignments.",
+  "requestFramePermissions": []
+}
